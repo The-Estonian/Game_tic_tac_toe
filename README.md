@@ -1,5 +1,6 @@
 # Game_tic_tac_toe
 My version of the game "Tic-Tac-Toe" made to work in windows cmd terminal.
+Game pulled out of my SDA-Tasks repository to keep it separate. All of the development (~100) commits still remain there.
 
 Created old school loading screen and menu for some eye candy.
 ![Loading](https://user-images.githubusercontent.com/89336239/167218458-75cd0fd4-2586-41b2-9a41-908abaace7d0.jpg)
