@@ -11,7 +11,7 @@ Created old school loading screen and menu for some eye candy.
 
 > Git clone [the repository.](https://github.com/The-Estonian/Python_tic_tac_toe)
 
-### Install python
+### Install python v.3
 >Install python
 
 ### Open Windows CMD, move to cloned folder and run:
