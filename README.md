@@ -7,8 +7,8 @@ Created old school loading screen and menu for some eye candy.
 ![Game](https://user-images.githubusercontent.com/89336239/167220369-58ca77ef-ea02-4fd3-b5a0-bfec7268b615.jpg)
 
 # Installation
-> Git clone the repository.
+> Git clone the repository. Install python
 
-No external module required for python.
+Open Windows CMD and run:
 
-> Use CMD to run the repository
+>  python Tic_tac_toe_terminal.py
