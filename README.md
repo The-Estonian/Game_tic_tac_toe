@@ -6,7 +6,9 @@ Created old school loading screen and menu for some eye candy.
 
 ![Game](https://user-images.githubusercontent.com/89336239/167220369-58ca77ef-ea02-4fd3-b5a0-bfec7268b615.jpg)
 
-No external modules installed and played around with built-in modules like: 
-"os" to clear terminal screen for some eye candy and cleanness, 
-"time" for time delay effects and loading screen. 
-"random" to give loading screen some randomness in loading time and to use weights on bot choices to make it more competitive.
+# Installation
+> Git clone the repository.
+
+No external module required for python.
+
+> Use CMD to run the repository
